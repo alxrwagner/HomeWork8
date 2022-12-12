@@ -7,5 +7,6 @@ public class Main {
         Book theWitchersAbroad = new Book("Ведьмы за границей", 1991, terryPratchett);
 
         harryPotterPart1.setYearPublication(1997);
+
     }
 }
